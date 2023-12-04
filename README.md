@@ -41,7 +41,6 @@ Check the requirements.txt for information about needed dependencies.
 
 or
 
-     ```bash
      jupyter nbconvert --execute rise-assignment-matteoguida.ipynb --to notebook
    
 
