@@ -21,4 +21,30 @@ displaying accuracy, precision, recall and F1 for each entity of the test set.
 
 Check the requirements.txt for information about needed dependencies. 
 
+## Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/RISE_assignment.git
+   cd RISE_assignment
+
+2. Install dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+
+3. Run notebook:
+
+   ```bash
+   jupyter nbconvert --execute rise-assignment-matteoguida.ipynb --to pdf
+
+or
+
+  ```bash
+  jupyter nbconvert --execute rise-assignment-matteoguida.ipynb --to notebook
+
+   
+
+
 
