@@ -1,6 +1,4 @@
-# RISE_assignment
-
-# NER Model Fine-Tuning with BERT
+# RISE_assignment: NER Model Fine-Tuning with BERT
 
 ## Overview
 
@@ -43,6 +41,6 @@ or
 
      jupyter nbconvert --execute rise-assignment-matteoguida.ipynb --to notebook
    
-
+Alternatively, should there be any issues with the code, the Jupyter Notebook in this repository contains all the outputs and can be directly accessed here.
 
 
